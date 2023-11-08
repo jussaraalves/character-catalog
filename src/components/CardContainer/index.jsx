@@ -1,4 +1,3 @@
-
 import PropTypes from 'prop-types';
 import { Main, Section } from './styles';
 

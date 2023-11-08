@@ -1,4 +1,3 @@
-
 import { HeaderContainer , Section, Title } from './styles'
 import {Link} from 'react-router-dom';
 import PropTypes from 'prop-types';
