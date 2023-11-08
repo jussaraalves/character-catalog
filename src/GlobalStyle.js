@@ -15,7 +15,8 @@ export const GlobalStyle = createGlobalStyle`
     margin: 0;
     padding: 0;
     background: url('https://raw.githubusercontent.com/manualdodev/memory-game/main/images/bg.jpg');
-
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 
   h1{
